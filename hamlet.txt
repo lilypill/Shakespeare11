@@ -6,4 +6,6 @@ POLONIUS: I”m behind a curtain!
 
 YORICK: I”m a skull!
 
+HAMLET: Alas about all that.
+
 THE END
